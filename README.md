@@ -9,13 +9,11 @@ Start by writing absolutely nothing.
 ```
 
 ```
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+An example application, but it can be anything you want. Adding new features has never been easier, just use read gitflow and ignore everything you read after :)
 
 ```
 
 ```
-
-The possibilities are endless.
 
 ### Building the Application
 
@@ -54,4 +52,4 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 ## Contributing
 
-You don't.
+hehe, (sinister laugh)
