@@ -38,13 +38,7 @@ Write zero unit or integration tests, that tests everything and nothing at the s
 
 ### Deploying
 
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
-
-```
-
-```
-
-It's that simple. And when it comes time to scale the application, all you have to do is:
+While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere. And when it comes to scaling, yep you guessed it, nothing will happen.
 
 ```
 
