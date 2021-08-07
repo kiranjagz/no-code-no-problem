@@ -1,4 +1,4 @@
-# No Code
+# No Code No Problem
 
 No code is the only way to write secure, robust, scable and reliable applications. Write nothing; deploy nowhere; automation, who cares.
 
@@ -30,6 +30,13 @@ Yep. That's it. You should see the following output:
 ```
 
 ```
+### Automation
+
+Write zero unit or integration tests, that tests everything and nothing at the same time. Yep I am looking at you team leads, 100% zero test coverage!!
+
+```
+
+```
 
 ### Deploying
 
@@ -44,8 +51,6 @@ It's that simple. And when it comes time to scale the application, all you have 
 ```
 
 ```
-
-I know right?
 
 ## Contributing
 
