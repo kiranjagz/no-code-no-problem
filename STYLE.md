@@ -14,7 +14,7 @@ main.no
 
 ```
 
-> The only valid code is no code.
+The only valid code is no code.
 
 ## Code Reviews
 
