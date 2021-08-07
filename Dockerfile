@@ -1,2 +1,3 @@
 FROM freshair
-RUN []
+RUN nothing
+CMD []
